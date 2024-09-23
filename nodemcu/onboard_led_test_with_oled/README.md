@@ -2,10 +2,10 @@
 
 ![NodeMCU OLED pin diagram](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/onboard_led_test_with_oled/nodemcu_oled_pin_diagram.png)
 
-![NodeMCU OLED usb-c connection](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/onboard_led_test_with_oled/2.0_oled_test.jpg)
+![NodeMCU OLED usb-c connection](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/onboard_led_test_with_oled/2.0_oled_test.jpg =x300)
 
 ## An Onboard NodeMCU Blinking LED with OLED Demo
 
-Click on the image below to open the video:
+Click on the image below to open the demo video:
 
-[![YouTube](http://i.ytimg.com/vi/zTFnN5fVV8g/hqdefault.jpg)](https://www.youtube.com/watch?v=zTFnN5fVV8g)
+[![Demo oled youtube video](http://i.ytimg.com/vi/zTFnN5fVV8g/hqdefault.jpg)](https://www.youtube.com/watch?v=zTFnN5fVV8g)
