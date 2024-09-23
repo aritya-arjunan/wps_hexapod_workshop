@@ -1,5 +1,14 @@
 # Controlling Servo Motor with NodeMCU
 
+1. List of items
+
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.0_servo_items.jpg)
+
+2. Turn off battery box
+
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.1_battery_off.jpg)
+ 
+
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.0_servo_items.jpg)
 
 ## Demo Video
