@@ -45,7 +45,9 @@ Click on the image below to open a video showing 3D printing of hexapod leg tibi
 
 [![YouTube](http://i.ytimg.com/vi/oiVZwzCFncw/hqdefault.jpg)](https://www.youtube.com/watch?v=oiVZwzCFncw)
 
-1. A 3D printed femur part and a servo that will be assembled
+0. Turn off the battery and disconnect the two servos in Part 1 from their dupont wires.
+
+1. Get a 3D printed femur part and a servo ready to be assembled
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.0_femur_servo_items.jpg)
 
@@ -135,7 +137,7 @@ Click on the image below to open a video showing 3D printing of hexapod leg tibi
 
 23. Placement of coxa from the top view with the required screw
 
-![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.21_tibia_servo2_horn_top_placement.jpg)
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.21_tibia_servo2_top_placement.jpg)
 
 24. Screwed tibia to the servo horn
 
@@ -164,6 +166,10 @@ Click on the image below to open a video showing 3D printing of hexapod leg tibi
 30. Fully assembled hexapod leg with two servos
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.27_tibia_servo2_bearing_side_screwed.jpg)
+
+31. Reconnect the two servos with the dupont wires as described in Part 1.
+
+32. Turn on the battery.
 
 ## Demo Video of Part 2
 
