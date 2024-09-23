@@ -1,6 +1,6 @@
-# Foobar
+# Introduction to NodeMCU Onboard LED
 
-Foobar is a Python library for dealing with word pluralization.
+![NodeMCU LED](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/onboard_led_test/nodemcu_led.png)
 
 ## Installation
 
