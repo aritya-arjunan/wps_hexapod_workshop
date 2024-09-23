@@ -1,6 +1,6 @@
 # Part 1: Controlling two servo motors with NodeMCU
 
-1. Connect 2 pin male to male dupont wire to battery 2 pin (+6V and Ground)
+1. Connect a 2 pin male to male dupont wire to the battery 2 pin (+6V and Ground)
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/4.0_battery_connect.jpg)
 
@@ -27,6 +27,10 @@
 7. Connect the female dupont pin to the V pin of NodeMCU
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/4.6_battery_2pin_nodemcu_V_pin_connect.jpg)
+
+8. Connect USB to NodeMCU and upload sketch
+
+9. Disconnect USB and turn on battery to test the two servos
 
 ## Demo Video of Part 1
 
