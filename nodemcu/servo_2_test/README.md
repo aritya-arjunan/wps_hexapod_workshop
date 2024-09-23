@@ -46,6 +46,10 @@ Click on the image below to open the demo video:
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.0_femur_servo_items.jpg)
 
+Click on the image below to open a video showing 3D printing of hexapod leg tibias:
+
+[![YouTube](http://i.ytimg.com/vi/oiVZwzCFncw/hqdefault.jpg)](https://www.youtube.com/watch?v=oiVZwzCFncw)
+
 2. Placement of the servo motor wire within the femur
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.1_femur_servo_side_wire_placement.jpg)
@@ -152,7 +156,7 @@ Click on the image below to open the demo video:
 
 28. Turn the screw until it slightly touches the base of the second servo
 
-![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.26_tibia_servo2_bearing_bottom_side_placement.jpg)
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.26_tibia_servo2_top_side_screwed.jpg)
 
 29. Placement of servo wires
 
@@ -161,3 +165,7 @@ Click on the image below to open the demo video:
 30. Fully assembled hexapod leg with two servos
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.27_tibia_servo2_bearing_side_screwed.jpg)
+
+Click on the image below to open a demo video of the hexapod leg controlled by NodeMCU:
+
+[![YouTube](http://i.ytimg.com/vi/RGJpdCyLQgM/hqdefault.jpg)](https://www.youtube.com/watch?v=RGJpdCyLQgM)
