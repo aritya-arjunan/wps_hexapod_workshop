@@ -8,9 +8,11 @@
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.1_battery_off.jpg)
  
-3. Connect battery box with 2 pin male to male dupont
+3. Connect battery box with 2 pin male to male dupont. Red to 6V: pins on the red cross sticker side. Black to ground: no sticker side.
 
-![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.2_battery_connect.jpg)
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.2a_battery_connect.jpg)
+
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.2b_battery_connect.jpg)
 
 4. Connect battery box with servo motor (ground: black, 6V: red)
 
