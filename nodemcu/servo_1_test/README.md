@@ -8,7 +8,7 @@
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.1_battery_off.jpg)
  
-3. Connect battery box
+3. Connect battery box with 2 pin male to male dupont
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.2_battery_connect.jpg)
 
@@ -28,9 +28,17 @@
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.6_nodemcu_gnd_battery_connect.jpg)
 
-8. Battery 2 pin red row for +6V
+8. Position of battery's 2 pin red row for +6V connection
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.7_nodemcu_gnd_battery_connect.jpg)
+
+9. Connect NodeMCU with a computer with Arduino IDE using a USB-C
+
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.8_all_connected.jpg)
+
+10. Overall connection of NodeMCU and servo with rotation test 
+
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.9_servo_tested.jpg)
 
 ## Demo Video
 
