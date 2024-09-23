@@ -8,11 +8,11 @@
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.1_battery_off.jpg)
  
-3. The two pin rows connect to battery box has the following configuration: The row on the side with the red cross sticker has pins connected to the 6V of the battery box. The row on the side without any sticker has pins connected to the ground of the battery box. 
+3. The two pin rows connected to the battery box have the following configuration: The row on the side with the red cross sticker has pins connected to the 6V of the battery box. The row on the side without any sticker has pins connected to the ground of the battery box. 
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.2a_battery_connect.jpg)
 
-Connect a male to female dupont wire with red to 6V: pins on the red cross sticker side. Black to ground: no sticker side:
+Connect a male to female 2 pin dupont red wire to 6V: pins on the red cross sticker side. Black wire to ground: no sticker side:
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.2b_battery_connect.jpg)
 
