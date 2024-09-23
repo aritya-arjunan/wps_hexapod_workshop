@@ -41,14 +41,13 @@ Click on the image below to open the demo video:
 
 # Part 2: Assembling 3D printed hexapod leg parts with two servos
 
+Click on the image below to open a video showing 3D printing of hexapod leg tibias:
+
+[![YouTube](http://i.ytimg.com/vi/oiVZwzCFncw/hqdefault.jpg)](https://www.youtube.com/watch?v=oiVZwzCFncw)
 
 1. A 3D printed femur part and a servo that will be assembled
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.0_femur_servo_items.jpg)
-
-Click on the image below to open a video showing 3D printing of hexapod leg tibias:
-
-[![YouTube](http://i.ytimg.com/vi/oiVZwzCFncw/hqdefault.jpg)](https://www.youtube.com/watch?v=oiVZwzCFncw)
 
 2. Placement of the servo motor wire within the femur
 
@@ -165,6 +164,8 @@ Click on the image below to open a video showing 3D printing of hexapod leg tibi
 30. Fully assembled hexapod leg with two servos
 
 ![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_2_test/5.27_tibia_servo2_bearing_side_screwed.jpg)
+
+## Demo Video of Part 2
 
 Click on the image below to open a demo video of the hexapod leg controlled by NodeMCU:
 
