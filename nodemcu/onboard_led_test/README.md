@@ -2,36 +2,5 @@
 
 ![NodeMCU LED](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/onboard_led_test/nodemcu_led.png)
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+## Circuit Wire Connections
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8mfu5oMrM4Q/0.jpg)](https://www.youtube.com/watch?v=8mfu5oMrM4Q)
