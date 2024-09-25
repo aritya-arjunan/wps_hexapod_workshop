@@ -26,7 +26,7 @@ Connect a male to female 2 pin dupont red wire to 6V: pins on the red cross stic
 
 6. Connect servo signal with NodeMCU D1 pin
 
-![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.5_servo_signal_D2_connect.jpg)
+![](https://github.com/aritya-arjunan/wps_hexapod_workshop/blob/main/nodemcu/servo_1_test/3.5_servo_signal_D1_connect.jpg)
 
 7. Connect NodeMCU ground pin (G) to battery ground pin with a dupont wire
 
