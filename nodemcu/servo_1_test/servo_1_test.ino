@@ -6,10 +6,10 @@ servo.attach(D1,500,2400);
 delay(2000);
 }
 void wipe() {
-  servo.write(1)
-  delay(2000)
-  servo.write(180)
-  delay(2000)
+  servo.write(1);
+  delay(2000);
+  servo.write(180);
+  delay(2000);
 }
 
 void loop() {
