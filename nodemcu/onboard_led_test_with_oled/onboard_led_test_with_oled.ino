@@ -16,7 +16,7 @@ void init_display() {
   display.setTextSize(1);  // Set text size to 2 (twice the original size)
   display.setTextColor(SSD1306_WHITE);
   display.setCursor(0, 0);
-  display.println("Hi WPS students,");
+  display.println("Hi Gandhi School students,");
   display.println("Welcome to the");
   display.println("Hexapod Workshop!");
   display.display();
